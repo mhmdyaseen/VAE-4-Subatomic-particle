@@ -20,7 +20,7 @@ The training process uses data augmentation with ImageDataGenerator, early stopp
 
 ## Original vs Reconstructed images
 
-![orginal vs recnstructed image](./assets/image.png)
+![orginal vs recnstructed image](https://raw.githubusercontent.com/mhmdyaseen/VAE-4-Subatomic-particle/refs/heads/main/assets/image1.png?token=GHSAT0AAAAAADBDUATEXN7BXKPYYZVY2RWOZ7L2SQQ)
 
 
 ## Discussion 
