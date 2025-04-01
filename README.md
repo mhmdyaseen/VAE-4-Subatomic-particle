@@ -18,7 +18,12 @@ The architecture consists of:
 The training process uses data augmentation with ImageDataGenerator, early stopping to prevent overfitting, and the Adam optimizer. After training, we visualizes original and reconstructed jet images to evaluate the model's performance, plots training and validation loss curves.
 
 
-## Results 
+## Original vs Reconstructed images
+
+![orginal vs recnstructed image](./assets/image.png)
+
+
+## Discussion 
 
 + The Model shows impressive convergence over 30 epochs, with significant improvement (Train Loss: 1128.87→7.64, Val Loss: 30.08→7.53) followed by more gradual refinement, suggesting effective optimization without overfitting.
 
