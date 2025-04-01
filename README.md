@@ -20,7 +20,7 @@ The training process uses data augmentation with ImageDataGenerator, early stopp
 
 ## Original vs Reconstructed images
 
-<img src="/assets/images1.png" />
+<img src="/assets/image1.png" />
 
 
 ## Discussion 
