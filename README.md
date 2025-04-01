@@ -1,4 +1,4 @@
-# VAE-for-High-Energy-Physics-Jet-Images"
+# VAE-for-High-Energy-Physics-Jet-Images
 
 
 Common Task 1. Build a variational autoencoder (VAE) that learns representations of quark/gluon events using three image channels (ECAL, HCAL, and Tracks), and visualize side-by-side comparisons of original and reconstructed events.
