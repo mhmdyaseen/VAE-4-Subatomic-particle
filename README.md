@@ -1,4 +1,4 @@
-# VAE-4-Subatomic-particle
+# VAE-for-high-energy-physics-quark-gluon
 
 Common Task 1. Build a variational autoencoder (VAE) that learns representations of quark/gluon events using three image channels (ECAL, HCAL, and Tracks), and visualize side-by-side comparisons of original and reconstructed events.
 
